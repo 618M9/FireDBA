@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "884402426908",
+    "firebase_url": "https://firedba-8166e.firebaseio.com",
+    "project_id": "firedba-8166e",
+    "storage_bucket": "firedba-8166e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884402426908:android:ef27274dc4fc6a16",
+        "android_client_info": {
+          "package_name": "com.firedba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884402426908-irp5qhpknilt3lavlr5k1ipv0km8k5ov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firedba",
+            "certificate_hash": "6ce617487b250303c92cfb2f393de49d23a4342d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5D4S_vRNGJTPJk3-5rxwkD1OsLMrKU1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884402426908-jec52njck8poautci0dg8ock8in5vik2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
